@@ -1,24 +1,30 @@
 import json
 import os
+from collections import defaultdict, Counter
+
+import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import DBSCAN
-import numpy as np
-from collections import defaultdict
 
-# -----------------------------
-# Config
-# -----------------------------
+# =====================================================
+# CONFIG — TUNE THESE, NOT THE LOGIC
+# =====================================================
 
-INPUT_FILE = "data/processed/unified_logs.json"
-OUTPUT_DIR = "analysis/dbscan_clusters"
+INPUT_FILE = "./unified_logs.ndjson"   # NDJSON
+OUTPUT_DIR = "analysis/regex_candidates"
 
-MODEL_NAME = "all-MiniLM-L6-v2"   # lightweight, fast
-EPS = 0.35                       # distance threshold
-MIN_SAMPLES = 20                 # minimum repeats to care
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
-# -----------------------------
-# Load logs
-# -----------------------------
+# DBSCAN parameters
+EPS = 0.3             # semantic similarity threshold
+MIN_SAMPLES = 30        # 🔑 frequency threshold for regex-worthiness
+
+# How many samples to show per cluster
+MAX_EXAMPLES = 50
+
+# =====================================================
+# STEP 1: LOAD UNLABELED LOGS ONLY
+# =====================================================
 
 logs = []
 messages = []
@@ -27,35 +33,35 @@ with open(INPUT_FILE) as f:
     for line in f:
         log = json.loads(line)
 
-        # Only analyze UNKNOWN logs
+        # Only logs NOT already handled by regex
         if log.get("label") is None:
             msg = log.get("clean_message")
             if msg:
                 logs.append(log)
                 messages.append(msg)
 
-print(f"[INFO] Loaded {len(messages)} unlabeled logs")
+print(f"[INFO] Unlabeled logs loaded: {len(messages)}")
 
-if len(messages) == 0:
-    raise ValueError("No unlabeled logs found. DBSCAN not needed.")
+if len(messages) < MIN_SAMPLES:
+    raise RuntimeError("Not enough unlabeled logs to justify DBSCAN.")
 
-# -----------------------------
-# Embed logs
-# -----------------------------
+# =====================================================
+# STEP 2: EMBEDDINGS (SEMANTIC, NOT STRING)
+# =====================================================
 
 print("[INFO] Loading embedding model...")
-model = SentenceTransformer(MODEL_NAME)
+model = SentenceTransformer(EMBEDDING_MODEL)
 
-print("[INFO] Generating embeddings...")
+print("[INFO] Encoding log messages...")
 embeddings = model.encode(
     messages,
     show_progress_bar=True,
     normalize_embeddings=True
 )
 
-# -----------------------------
-# DBSCAN clustering
-# -----------------------------
+# =====================================================
+# STEP 3: DBSCAN — FIND REPEATED PATTERNS
+# =====================================================
 
 print("[INFO] Running DBSCAN...")
 dbscan = DBSCAN(
@@ -66,38 +72,46 @@ dbscan = DBSCAN(
 
 cluster_ids = dbscan.fit_predict(embeddings)
 
-# -----------------------------
-# Group clusters
-# -----------------------------
+# =====================================================
+# STEP 4: GROUP CLUSTERS
+# =====================================================
 
 clusters = defaultdict(list)
 
-for idx, cluster_id in enumerate(cluster_ids):
-    clusters[cluster_id].append(logs[idx])
+for idx, cid in enumerate(cluster_ids):
+    clusters[cid].append(logs[idx])
 
-print(f"[INFO] Found {len(clusters) - (1 if -1 in clusters else 0)} clusters")
+num_real_clusters = len([c for c in clusters if c != -1])
 
-# -----------------------------
-# Save clusters for inspection
-# -----------------------------
+print(f"[INFO] Found {num_real_clusters} candidate clusters")
+
+# =====================================================
+# STEP 5: SAVE ONLY REGEX-WORTHY CLUSTERS
+# =====================================================
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-for cluster_id, cluster_logs in clusters.items():
-    if cluster_id == -1:
-        continue  # noise, ignore
+for cid, cluster_logs in clusters.items():
+    if cid == -1:
+        continue  # noise → BERT/LLM handles this
 
-    cluster_file = os.path.join(
-        OUTPUT_DIR, f"cluster_{cluster_id}.txt"
+    freq = len(cluster_logs)
+
+    # Explicit frequency gate (your requirement)
+    if freq < MIN_SAMPLES:
+        continue
+
+    out_path = os.path.join(
+        OUTPUT_DIR, f"cluster_{cid}_freq_{freq}.txt"
     )
 
-    with open(cluster_file, "w") as f:
-        for log in cluster_logs[:100]:  # limit for readability
+    with open(out_path, "w") as f:
+        for log in cluster_logs[:MAX_EXAMPLES]:
             f.write(log["clean_message"] + "\n")
 
     print(
-        f"[CLUSTER {cluster_id}] "
-        f"{len(cluster_logs)} logs → {cluster_file}"
+        f"[CANDIDATE] cluster={cid} "
+        f"freq={freq} → {out_path}"
     )
 
-print("[DONE] DBSCAN pattern mining completed.")
+print("[DONE] DBSCAN regex pattern mining complete.")
