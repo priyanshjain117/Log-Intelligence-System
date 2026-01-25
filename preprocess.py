@@ -49,7 +49,7 @@ def process_file(file_path: str, source: str):
     return processed_logs
 
 
-def process_dataset(root_dir="data/raw", output_file="data/processed/unified_logs.json"):
+def process_dataset(root_dir="data/raw", output_file="data/processed/unified_logs.ndjson"):
     """
     Walk through all datasets and build unified_logs.json
     """
