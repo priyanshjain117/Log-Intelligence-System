@@ -1,0 +1,50 @@
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: qq(<NUM>) deny(<NUM>) mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: qq(<NUM>) deny(<NUM>) mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: qq(<NUM>) deny(<NUM>) mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport

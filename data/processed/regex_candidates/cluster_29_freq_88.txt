@@ -1,0 +1,50 @@
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: unimplemented operation..<NUM>
+debug interrupt enable............<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: imprecise exception......<NUM>
+critical input interrupt enable...<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: unimplemented operation..<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: illegal instruction......<NUM>
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.

@@ -1,0 +1,27 @@
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : btle discovered device with hash <01faa200 <NUM> <NUM>>
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered off
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanning stopped
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanning stopped
+<NUM>:<NUM>:<NUM>.<NUM> : purged contact hashes
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanning started
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanning started
+failed to stop a scan - central is not powered on: <NUM>
+<NUM>:<NUM>:<NUM>.<NUM> : purged contact hashes
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : scanning mode contacts only
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered off
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered off
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered off
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on
+<NUM>:<NUM>:<NUM>.<NUM> : btle scanner powered on

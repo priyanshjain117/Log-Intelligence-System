@@ -1,0 +1,100 @@
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+floating point instr. enabled.....<NUM>
+floating point instr. enabled.....<NUM>
+floating point instr. enabled.....<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating point instr. enabled.....<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions
+<NUM> floating point alignment exceptions

@@ -1,0 +1,50 @@
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = deauthind:sts:0_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_18,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_18,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = assocfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = roamfail:sts:1_rsn:<NUM>

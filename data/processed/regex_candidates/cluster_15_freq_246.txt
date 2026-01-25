@@ -1,0 +1,50 @@
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user test by (uid=<NUM>)
+session closed for user test
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news

@@ -1,0 +1,41 @@
+ciod: failed to read message prefix on control stream (ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+ciod: failed to read message prefix on control stream (ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+ciod: cpu <NUM> at treeaddr <NUM> sent unrecognized message 0xffffffff
+ciod: message code <NUM> is not <NUM> or <NUM>
+ciod: failed to read message prefix on control stream (ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+appsev <NUM> <NUM>.<NUM>.<NUM> r21-m0-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r21-m0-n8-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+ciod: in packet from node <NUM>.<NUM> (r62-m1-nf-c:j03-u11), message code <NUM> is not <NUM> or <NUM> (softheader=003b005b <NUM> <NUM> <NUM>)
+appsev <NUM> <NUM>.<NUM>.<NUM> r43-m0-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r43-m0-n8-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r41-m1-n4-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r41-m1-n4-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r53-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r53-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r72-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r72-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r27-m0-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r27-m0-nc-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r56-m0-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r56-m0-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r05-m0-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r05-m0-n8-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r71-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r71-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b2
+appto <NUM> <NUM>.<NUM>.<NUM> r14-m0-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r14-m0-nc-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection timed out
+appres <NUM> <NUM>.<NUM>.<NUM> r13-m1-n4-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r13-m1-n4-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x0000044a
+appres <NUM> <NUM>.<NUM>.<NUM> r22-m0-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r22-m0-n0-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x0000044d
+appres <NUM> <NUM>.<NUM>.<NUM> r65-m1-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r65-m1-nc-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+appto <NUM> <NUM>.<NUM>.<NUM> r16-m1-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r16-m1-nc-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection timed out
+appres <NUM> <NUM>.<NUM>.<NUM> r66-m1-n8-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r66-m1-n8-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+appsev <NUM> <NUM>.<NUM>.<NUM> r14-m0-n8-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r14-m0-n8-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x00001a12
+appsev <NUM> <NUM>.<NUM>.<NUM> r45-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r45-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f8
+appsev <NUM> <NUM>.<NUM>.<NUM> r54-m0-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r54-m0-n0-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f5
+appsev <NUM> <NUM>.<NUM>.<NUM> r33-m1-n4-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r33-m1-n4-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f5
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f5
+appsev <NUM> <NUM>.<NUM>.<NUM> r74-m1-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r74-m1-n8-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r44-m0-n4-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r44-m0-n4-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r37-m1-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r37-m1-n8-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r32-m0-nc-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r32-m0-nc-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed

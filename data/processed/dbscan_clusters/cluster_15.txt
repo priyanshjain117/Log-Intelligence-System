@@ -1,0 +1,27 @@
+tcp_connection_destination_perform_socket_connect <NUM> connectx to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>@<NUM> failed: [<NUM>] network is down
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+network: no response from server, reachability, <NUM>, queryretries, <NUM>
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_destination_perform_socket_connect <NUM> connectx to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>@<NUM> failed: [<NUM>] network is unreachable
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+network: no response from server, reachability, <NUM>, queryretries, <NUM>
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+network: no response from server, reachability, <NUM>, queryretries, <NUM>
+tcp_connection_destination_perform_socket_connect <NUM> connectx to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>@<NUM> failed: [<NUM>] network is down
+arp_client_transmit(en0) failed, network is down (<NUM>)
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_destination_perform_socket_connect <NUM> connectx to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>@<NUM> failed: [<NUM>] network is down
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+network: no response from server, reachability, <NUM>, queryretries, <NUM>
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route
+tcp_connection_handle_connect_conditions_bad <NUM> failed: <NUM> - no network route

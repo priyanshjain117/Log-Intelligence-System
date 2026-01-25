@@ -1,0 +1,25 @@
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link up on en0
+airport: link up on awdl0
+airport: link up on en0
+airport: link down on en0. reason <NUM> (disassociated because station leaving).
+airport: link down on en0. reason <NUM> (disassociated because station leaving).
+airport: link up on awdl0
+airport: link up on awdl0
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link up on awdl0
+airport: link up on awdl0
+airport: link up on awdl0
+airport: link up on en0
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link down on en0. reason <NUM> (disassociated because station leaving).
+airport: link up on en0
+airport: link up on awdl0
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link up on awdl0
+airport: link up on awdl0
+airport: link down on awdl0. reason <NUM> (unspecified).
+airport: link down on en0. reason <NUM> (disassociated because station leaving).
+airport: link down on en0. reason <NUM> (disassociated because station leaving).

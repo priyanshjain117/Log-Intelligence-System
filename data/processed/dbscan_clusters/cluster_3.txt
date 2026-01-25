@@ -1,0 +1,46 @@
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended

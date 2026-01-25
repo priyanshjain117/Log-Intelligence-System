@@ -1,0 +1,50 @@
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: iopmpowersource information: onwake, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on tcp timeout
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: standby, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+wake reason: arpt (network)
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on tcp timeout
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]

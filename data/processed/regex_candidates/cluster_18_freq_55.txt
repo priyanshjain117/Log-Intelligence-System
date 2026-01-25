@@ -1,0 +1,50 @@
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: klogd <NUM>.<NUM>.<NUM>, log source = /proc/kmsg started.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: linux version <NUM>.<NUM>.<NUM>-<NUM>.<NUM> (bhcompile@bugs.build.redhat.com) (gcc version <NUM>.<NUM>.<NUM> <NUM> (red hat linux <NUM>.<NUM>.<NUM>-<NUM>)) #<NUM> sat may <NUM> <NUM>:<NUM>:<NUM> edt <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-provided physical ram map:
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: <NUM> - 00000000000a0000 (usable)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: 00000000000f0000 - <NUM> (reserved)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: <NUM> - 0000000007eae000 (usable)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: 0000000007eae000 - <NUM> (reserved)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: 00000000ffb00000 - <NUM> (reserved)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: 0mb highmem available.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: 126mb lowmem available.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: zapping low mappings.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: on node <NUM> totalpages: <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: dma zone: <NUM> pages, lifo batch:<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: normal zone: <NUM> pages, lifo batch:<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: highmem zone: <NUM> pages, lifo batch:<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: dmi <NUM>.<NUM> present.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: you can enable it with acpi=force
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: built <NUM> zonelists
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: kernel command line: ro root=label=/ rhgb quiet
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: initializing cpu#<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu <NUM> irqstacks, hard=<NUM> soft=<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: detected <NUM>.<NUM> mhz processor.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: using tsc for high-res timesource
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: security scaffold v1.<NUM>.<NUM> initialized
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: selinux: initializing.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: selinux: starting in permissive mode
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: there is already a security framework initialized, register_security failed.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: failure registering capabilities with the kernel
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: selinux_register_security: registering secondary module capability
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: capability lsm initialized
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu: l1 i cache: 16k, l1 d cache: 16k
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu: l2 cache: 256k
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: intel machine check architecture supported.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: intel machine check reporting enabled on cpu#<NUM>.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu: intel pentium iii (coppermine) stepping <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: enabling fast fpu save and restore... done.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: enabling unmasked simd fpu exception support... done.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: checking 'hlt' instruction... ok.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: net: registered protocol family <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: pci: pci bios revision <NUM>.<NUM> entry at 0xfc0ce, last bus=<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: pci: using configuration type <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: mtrr: v2.<NUM> (<NUM>)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: acpi: subsystem revision <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: acpi: interpreter disabled.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: linux plug and play support v0.<NUM> (c) adam belay
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: pci: probing pci hardware (bus <NUM>)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: transparent bridge - <NUM>:<NUM>:1e.<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: apm: bios version <NUM>.<NUM> flags 0x03 (driver version <NUM>.16ac)
+jul <NUM> <NUM>:<NUM>:<NUM> combo sysctl: kernel.core_uses_pid = <NUM>

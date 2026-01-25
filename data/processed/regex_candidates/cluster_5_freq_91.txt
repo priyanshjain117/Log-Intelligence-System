@@ -1,0 +1,50 @@
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000300
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000300
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::handlewakeevent_gated
+applecamin::wakeeventhandlerthread
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::handlewakeevent_gated
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread

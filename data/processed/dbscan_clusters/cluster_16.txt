@@ -1,0 +1,57 @@
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>

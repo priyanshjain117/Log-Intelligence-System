@@ -1,0 +1,37 @@
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltnhitype2::prepciwake - power up complete - took <NUM> us
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds
+applethunderboltgenerichal::earlywake - complete - took <NUM> milliseconds

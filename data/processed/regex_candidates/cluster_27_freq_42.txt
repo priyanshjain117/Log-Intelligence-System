@@ -1,0 +1,42 @@
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds

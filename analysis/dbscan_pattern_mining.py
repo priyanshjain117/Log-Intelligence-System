@@ -6,9 +6,6 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.cluster import DBSCAN
 
-# =====================================================
-# CONFIG — TUNE THESE, NOT THE LOGIC
-# =====================================================
 
 INPUT_FILE = "./unified_logs.ndjson"   # NDJSON
 OUTPUT_DIR = "analysis/regex_candidates"
@@ -17,14 +14,12 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # DBSCAN parameters
 EPS = 0.3             # semantic similarity threshold
-MIN_SAMPLES = 30        # 🔑 frequency threshold for regex-worthiness
+MIN_SAMPLES = 30        # frequency threshold for regex-worthiness
 
 # How many samples to show per cluster
 MAX_EXAMPLES = 50
 
-# =====================================================
 # STEP 1: LOAD UNLABELED LOGS ONLY
-# =====================================================
 
 logs = []
 messages = []

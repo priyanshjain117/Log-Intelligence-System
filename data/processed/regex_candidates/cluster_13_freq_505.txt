@@ -1,0 +1,50 @@
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM> user=guest
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net

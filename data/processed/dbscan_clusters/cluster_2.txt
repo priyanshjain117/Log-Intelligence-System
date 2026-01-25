@@ -1,0 +1,100 @@
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: roamed or switched channel, reason #<NUM>, bssid 5c:<NUM>:<NUM>:4c:<NUM>:<NUM>, last rssi -<NUM>
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+en0: channel changed to <NUM>
+arpt: <NUM>.<NUM>: aqm agg results 0x8001 len hi/lo: 0x0 0x26 babitmap(<NUM>-<NUM>) <NUM> <NUM> <NUM> <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv4 addr: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+en0: bssid changed to 5c:<NUM>:<NUM>:<NUM>:bc:<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+en0: channel changed to <NUM>,+<NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+en0: channel changed to <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+en0: bssid changed to 5c:<NUM>:<NUM>:4c:<NUM>:1c
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: wl0: leavemodulepoweredforoffloads: wi-fi will stay on.
+arpt: <NUM>.<NUM>: iopmpowersource information: onwake, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+en0: bssid changed to 5c:<NUM>:<NUM>:<NUM>:bc:<NUM>
+en0: channel changed to <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:4de9:a101:c96c:f28b
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:4de9:a101:c96c:f28b
+arpt: <NUM>.<NUM>: aqm agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+en0: channel changed to <NUM>,+<NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:c6b3:1ff:fecd:467f
+wake time set -<NUM>.<NUM> s
+en0: channel changed to <NUM>,+<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: leavemodulepoweredforoffloads: wi-fi will stay on.
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on tcp timeout
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+wake time set -<NUM>.<NUM> s
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: framerdy 0x0 bmccmd <NUM> framecnt <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: leavemodulepoweredforoffloads: wi-fi will stay on.
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+en0: channel changed to <NUM>
+arpt: <NUM>.<NUM>: aqm agg results 0x8001 len hi/lo: 0x0 0x26 babitmap(<NUM>-<NUM>) <NUM> <NUM> <NUM> <NUM>
+arpt: <NUM>.<NUM>: framerdy 0x0 bmccmd <NUM> framecnt <NUM>
+arpt: <NUM>.<NUM>: wlc_dump_aggfifo:
+arpt: <NUM>.<NUM>: aqm agg results 0x8001 len hi/lo: 0x0 0x30 babitmap(<NUM>-<NUM>) <NUM> <NUM> <NUM> <NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: wlc_dump_aggfifo:
+arpt: <NUM>.<NUM>: framerdy 0x0 bmccmd <NUM> framecnt <NUM>
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs

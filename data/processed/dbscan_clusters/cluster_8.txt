@@ -1,0 +1,100 @@
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::copyfile filename is [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]=assocfail:sts:2_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::copyfile filename is [<NUM>-<NUM>-03_15,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, source path:/var/log/corecapture/com.apple.driver.airport.brcm4360.<NUM>/driverlogs//[<NUM>-<NUM>-03_15,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, dest path:/library/logs/crashreporter/corecapture/com.apple.driver.airport.brcm4360.<NUM>/[<NUM>-<NUM>-03_15,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/driverlogs//[<NUM>-<NUM>-03_15,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::copyfile filename is [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::copyfile filename is [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::copyfile filename is [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::copyfile filename is [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::copyfile filename is [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::copyfile filename is [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, source path:/var/log/corecapture/com.apple.driver.airport.brcm4360.<NUM>/driverlogs//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, dest path:/library/logs/crashreporter/corecapture/com.apple.driver.airport.brcm4360.<NUM>/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/driverlogs//[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+dosavechannels@<NUM>: will write to: /library/logs/crashreporter/corecapture/ioreporters/[<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>] - authfail:sts:5_rsn:<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = deauthind:sts:0_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_18,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_18,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::copyfile filename is [<NUM>-<NUM>-03_19,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-03_19,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_19,<NUM>,<NUM>.<NUM>]=authfail:sts:2_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-03_19,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog
+ccfile::copyfile filename is [<NUM>-<NUM>-03_21,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-03_21,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-03_21,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-03_21,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = assocfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::copyfile filename is [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::copyfile filename is [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, source path:/var/log/corecapture/com.apple.driver.airport.brcm4360.<NUM>/driverlogs//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, dest path:/library/logs/crashreporter/corecapture/com.apple.driver.airport.brcm4360.<NUM>/[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/driverlogs//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::copyfile filename is [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+dosavechannels@<NUM>: will write to: /library/logs/crashreporter/corecapture/ioreporters/[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>] - assocfail:sts:5_rsn:<NUM>.xml
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::copyfile filename is [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::copyfile filename is [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = roamfail:sts:1_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+dosavechannels@<NUM>: will write to: /library/logs/crashreporter/corecapture/ioreporters/[<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>] - authfail:sts:5_rsn:<NUM>.xml
+ccfile::capturelog
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_19,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-05_19,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+dosavechannels@<NUM>: will write to: /library/logs/crashreporter/corecapture/ioreporters/[<NUM>-<NUM>-06_08,<NUM>,<NUM>.<NUM>] - authfail:sts:5_rsn:<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-06_12,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-06_14,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-06_14,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-06_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-06_14,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::copyfile filename is [<NUM>-<NUM>-07_00,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, source path:/var/log/corecapture/com.apple.iokit.io80211family/onestats//[<NUM>-<NUM>-07_00,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-07_00,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/onestats//[<NUM>-<NUM>-07_00,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-07_07,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-07_07,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::copyfile filename is [<NUM>-<NUM>-07_12,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, source path:/var/log/corecapture/com.apple.iokit.io80211family/io80211awdlpeermanager//[<NUM>-<NUM>-07_12,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, dest path:/library/logs/crashreporter/corecapture/com.apple.iokit.io80211family/[<NUM>-<NUM>-07_12,<NUM>,<NUM>.<NUM>]=authfail:sts:5_rsn:<NUM>/io80211awdlpeermanager//[<NUM>-<NUM>-07_12,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-07_12,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-07_12,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+dosavechannels@<NUM>: will write to: /library/logs/crashreporter/corecapture/ioreporters/[<NUM>-<NUM>-07_13,<NUM>,<NUM>.<NUM>] - assocfail:sts:2_rsn:<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-07_13,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-07_13,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-07_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-07_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::capturelog

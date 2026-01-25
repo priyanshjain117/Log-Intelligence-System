@@ -1,0 +1,50 @@
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_7128370237687728475 size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_3050920587428079149 size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_7888946331804732825 size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_2377150260128098806 size <NUM>
+received block blk_3587508140051953248 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_5402003568334525940 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_5792489080791696128 src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+receiving block blk_1724757848743533110 src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_8015913224713045110 size <NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-<NUM>. blk_-<NUM>
+received block blk_9212264480425680329 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-<NUM>. blk_-<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_4568434182693165548 size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_8763662564934652249 size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_7453815855294711849 size <NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_8291449241650212794 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000487_0/part-<NUM>. blk_-<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_6921674711959888070 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_5165786360127153975 size <NUM>
+receiving block blk_2937758977269298350 src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_673825774073966710 size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_8181993091797661153 size <NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_4755566011267050000 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_8829027411458566099 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_2113880130496815041 size <NUM>
+received block blk_1064470652608359218 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001648_0/part-<NUM>. blk_2513940824125131775
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-<NUM>. blk_-<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_427714267500527780 size <NUM>

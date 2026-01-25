@@ -1,0 +1,50 @@
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv4 addr: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:4de9:a101:c96c:f28b
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:4de9:a101:c96c:f28b
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:1c57:7ef3:8f8e:5a10
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>

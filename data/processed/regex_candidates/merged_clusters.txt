@@ -1,0 +1,1920 @@
+
+========================================
+SOURCE: cluster_26_freq_721.txt
+========================================
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+generating core.<NUM>
+
+
+========================================
+SOURCE: cluster_35_freq_848.txt
+========================================
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+found child <NUM> in scoreboard slot <NUM>
+
+
+========================================
+SOURCE: cluster_36_freq_32.txt
+========================================
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+<NUM>.<NUM>.<NUM>.<NUM>] directory index forbidden by rule: /var/www/html/
+
+
+========================================
+SOURCE: cluster_14_freq_117.txt
+========================================
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+check pass; user unknown
+
+
+========================================
+SOURCE: cluster_25_freq_41.txt
+========================================
+ciod: failed to read message prefix on control stream (ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+ciod: failed to read message prefix on control stream (ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+ciod: cpu <NUM> at treeaddr <NUM> sent unrecognized message 0xffffffff
+ciod: message code <NUM> is not <NUM> or <NUM>
+ciod: failed to read message prefix on control stream (ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+appsev <NUM> <NUM>.<NUM>.<NUM> r21-m0-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r21-m0-n8-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+ciod: in packet from node <NUM>.<NUM> (r62-m1-nf-c:j03-u11), message code <NUM> is not <NUM> or <NUM> (softheader=003b005b <NUM> <NUM> <NUM>)
+appsev <NUM> <NUM>.<NUM>.<NUM> r43-m0-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r43-m0-n8-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r41-m1-n4-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r41-m1-n4-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r53-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r53-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r72-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r72-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r27-m0-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r27-m0-nc-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r56-m0-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r56-m0-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r05-m0-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r05-m0-n8-i:j18-u11 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r71-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r71-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix after load_message on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>: link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b0
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001b2
+appto <NUM> <NUM>.<NUM>.<NUM> r14-m0-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r14-m0-nc-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection timed out
+appres <NUM> <NUM>.<NUM>.<NUM> r13-m1-n4-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r13-m1-n4-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x0000044a
+appres <NUM> <NUM>.<NUM>.<NUM> r22-m0-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r22-m0-n0-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x0000044d
+appres <NUM> <NUM>.<NUM>.<NUM> r65-m1-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r65-m1-nc-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+appto <NUM> <NUM>.<NUM>.<NUM> r16-m1-nc-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r16-m1-nc-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection timed out
+appres <NUM> <NUM>.<NUM>.<NUM> r66-m1-n8-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r66-m1-n8-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, connection reset by peer
+appsev <NUM> <NUM>.<NUM>.<NUM> r14-m0-n8-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r14-m0-n8-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x00001a12
+appsev <NUM> <NUM>.<NUM>.<NUM> r45-m1-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r45-m1-n0-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f8
+appsev <NUM> <NUM>.<NUM>.<NUM> r54-m0-n0-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r54-m0-n0-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f5
+appsev <NUM> <NUM>.<NUM>.<NUM> r33-m1-n4-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r33-m1-n4-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f5
+ciod: received signal <NUM>, code=<NUM>, errno=<NUM>, address=0x000001f5
+appsev <NUM> <NUM>.<NUM>.<NUM> r74-m1-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r74-m1-n8-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r44-m0-n4-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r44-m0-n4-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r37-m1-n8-i:j18-u11 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r37-m1-n8-i:j18-u11 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+appsev <NUM> <NUM>.<NUM>.<NUM> r32-m0-nc-i:j18-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r32-m0-nc-i:j18-u01 ras app fatal ciod: error reading message prefix on ciostream socket to <NUM>.<NUM>.<NUM>.<NUM>:<NUM>, link has been severed
+
+
+========================================
+SOURCE: cluster_13_freq_505.txt
+========================================
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>-<NUM>-<NUM>-<NUM>.hinet-ip.hinet.net user=root
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM>
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.ctinets.com
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=d211-<NUM>-<NUM>-<NUM>.rev.krline.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=<NUM>.<NUM>.<NUM>.<NUM> user=guest
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+authentication failure; logname= uid=<NUM> euid=<NUM> tty=nodevssh ruser= rhost=adsl-<NUM>-<NUM>-<NUM>-<NUM>.dsl.ksc2mo.swbell.net
+
+
+========================================
+SOURCE: cluster_4_freq_46.txt
+========================================
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlautomode resuming awdl
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdlsuspendedmode() suspending awdl, enterquietmode(true)
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from suspended to auto
+io80211awdlpeermanager::setawdloperatingmode setting the awdl operation mode from auto to suspended
+
+
+========================================
+SOURCE: cluster_7_freq_35.txt
+========================================
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.safari.safebrowsing.update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+
+
+========================================
+SOURCE: cluster_20_freq_1405.txt
+========================================
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_7128370237687728475 size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_3050920587428079149 size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_7888946331804732825 size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_2377150260128098806 size <NUM>
+received block blk_3587508140051953248 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_5402003568334525940 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_5792489080791696128 src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+receiving block blk_1724757848743533110 src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_8015913224713045110 size <NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-<NUM>. blk_-<NUM>
+received block blk_9212264480425680329 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-<NUM>. blk_-<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_4568434182693165548 size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_8763662564934652249 size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_7453815855294711849 size <NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_8291449241650212794 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_000487_0/part-<NUM>. blk_-<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_6921674711959888070 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_5165786360127153975 size <NUM>
+receiving block blk_2937758977269298350 src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_673825774073966710 size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_8181993091797661153 size <NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_4755566011267050000 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+received block blk_8829027411458566099 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_2113880130496815041 size <NUM>
+received block blk_1064470652608359218 of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+receiving block blk_-<NUM> src: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM> dest: /<NUM>.<NUM>.<NUM>.<NUM>:<NUM>
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001648_0/part-<NUM>. blk_2513940824125131775
+block* namesystem.allocateblock: /user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-<NUM>. blk_-<NUM>
+received block blk_-<NUM> of size <NUM> from /<NUM>.<NUM>.<NUM>.<NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_-<NUM> size <NUM>
+block* namesystem.addstoredblock: blockmap updated: <NUM>.<NUM>.<NUM>.<NUM>:<NUM> is added to blk_427714267500527780 size <NUM>
+
+
+========================================
+SOURCE: cluster_33_freq_569.txt
+========================================
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+ok /etc/httpd/conf/workers2.properties
+
+
+========================================
+SOURCE: cluster_18_freq_55.txt
+========================================
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: klogd <NUM>.<NUM>.<NUM>, log source = /proc/kmsg started.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: linux version <NUM>.<NUM>.<NUM>-<NUM>.<NUM> (bhcompile@bugs.build.redhat.com) (gcc version <NUM>.<NUM>.<NUM> <NUM> (red hat linux <NUM>.<NUM>.<NUM>-<NUM>)) #<NUM> sat may <NUM> <NUM>:<NUM>:<NUM> edt <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-provided physical ram map:
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: <NUM> - 00000000000a0000 (usable)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: 00000000000f0000 - <NUM> (reserved)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: <NUM> - 0000000007eae000 (usable)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: 0000000007eae000 - <NUM> (reserved)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: bios-e820: 00000000ffb00000 - <NUM> (reserved)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: 0mb highmem available.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: 126mb lowmem available.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: zapping low mappings.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: on node <NUM> totalpages: <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: dma zone: <NUM> pages, lifo batch:<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: normal zone: <NUM> pages, lifo batch:<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: highmem zone: <NUM> pages, lifo batch:<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: dmi <NUM>.<NUM> present.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: you can enable it with acpi=force
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: built <NUM> zonelists
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: kernel command line: ro root=label=/ rhgb quiet
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: initializing cpu#<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu <NUM> irqstacks, hard=<NUM> soft=<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: detected <NUM>.<NUM> mhz processor.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: using tsc for high-res timesource
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: security scaffold v1.<NUM>.<NUM> initialized
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: selinux: initializing.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: selinux: starting in permissive mode
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: there is already a security framework initialized, register_security failed.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: failure registering capabilities with the kernel
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: selinux_register_security: registering secondary module capability
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: capability lsm initialized
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu: l1 i cache: 16k, l1 d cache: 16k
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu: l2 cache: 256k
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: intel machine check architecture supported.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: intel machine check reporting enabled on cpu#<NUM>.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: cpu: intel pentium iii (coppermine) stepping <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: enabling fast fpu save and restore... done.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: enabling unmasked simd fpu exception support... done.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: checking 'hlt' instruction... ok.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: net: registered protocol family <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: pci: pci bios revision <NUM>.<NUM> entry at 0xfc0ce, last bus=<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: pci: using configuration type <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: mtrr: v2.<NUM> (<NUM>)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: acpi: subsystem revision <NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: acpi: interpreter disabled.
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: linux plug and play support v0.<NUM> (c) adam belay
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: pci: probing pci hardware (bus <NUM>)
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: transparent bridge - <NUM>:<NUM>:1e.<NUM>
+jul <NUM> <NUM>:<NUM>:<NUM> combo kernel: apm: bios version <NUM>.<NUM> flags 0x03 (driver version <NUM>.16ac)
+jul <NUM> <NUM>:<NUM>:<NUM> combo sysctl: kernel.core_uses_pid = <NUM>
+
+
+========================================
+SOURCE: cluster_19_freq_311.txt
+========================================
+packetresponder <NUM> for block blk_38865049064139660 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_8229193803249955061 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_572492839287299681 terminating
+packetresponder <NUM> for block blk_5017373558217225674 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_7791237942696729620 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_4886940526690879848 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_9093049293972551787 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_2028803850179311599 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_8320088109701056055 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_549647953114643908 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_3160319368100972992 terminating
+packetresponder <NUM> for block blk_4568377692254637284 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_9074030793567748915 terminating
+packetresponder <NUM> for block blk_3259872359515191972 terminating
+packetresponder <NUM> for block blk_5963816136267066159 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_397848436489409658 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_8060713381303305129 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_3278280638950561822 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_4774656339381154282 terminating
+packetresponder <NUM> for block blk_2917692073041583988 terminating
+packetresponder <NUM> for block blk_-<NUM> terminating
+packetresponder <NUM> for block blk_755689327380778318 terminating
+
+
+========================================
+SOURCE: cluster_8_freq_90.txt
+========================================
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_13,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-03_16,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelog
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = deauthind:sts:0_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-03_18,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-03_18,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = assocfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml, current file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-ccioreporter-<NUM>.xml
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-04_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-05_11,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun() exiting ccfile::capturelogrun
+ccfile::capturelog
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt, current file [<NUM>-<NUM>-05_14,<NUM>,<NUM>.<NUM>]-airportbrcm4360_logs-<NUM>.txt
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = authfail:sts:5_rsn:<NUM>
+ccfile::capturelog
+ccfile::capturelogrun skipping current file dir file [<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng, current file [<NUM>-<NUM>-05_16,<NUM>,<NUM>.<NUM>]-io80211family-<NUM>.pcapng
+ccfile::capturelog received capture notice id: <NUM>.<NUM>, reason = roamfail:sts:1_rsn:<NUM>
+
+
+========================================
+SOURCE: cluster_11_freq_57.txt
+========================================
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+dnssd_clientstub connecttoserver: connect() failed path:/var/run/mdnsresponder socket:<NUM> err:-<NUM> errno:<NUM> operation not permitted
+dnssd_clientstub connecttoserver: connect()-> no of tries: <NUM>
+
+
+========================================
+SOURCE: cluster_23_freq_239.txt
+========================================
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+floating point instr. enabled.....<NUM>
+floating point instr. enabled.....<NUM>
+floating point instr. enabled.....<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating point instr. enabled.....<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+floating pt ex mode <NUM> enable......<NUM>
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+<NUM> double-hummer alignment exceptions
+
+
+========================================
+SOURCE: cluster_30_freq_35.txt
+========================================
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+idoproxydb hit assert condition: assert expression=<NUM> source file=idotransportmgr.cpp source line=<NUM> function=int idotransportmgr::sendpacket(idoudpmgr*, bglctlpavtrace*)
+
+
+========================================
+SOURCE: cluster_28_freq_91.txt
+========================================
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+kerndtlb <NUM> <NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 <NUM>-<NUM>-<NUM>-<NUM>.<NUM>.<NUM>.<NUM> r30-m0-n9-c:j16-u01 ras kernel fatal data tlb error interrupt
+
+
+========================================
+SOURCE: cluster_10_freq_37.txt
+========================================
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'active'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'active'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'active'
+location icon should now be in state 'active'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+location icon should now be in state 'inactive'
+
+
+========================================
+SOURCE: cluster_31_freq_208.txt
+========================================
+iar 003a90fc dear 00b360e8
+iar 003a90dc dear 00b35148
+iar 003a90fc dear 00b35db8
+iar 003a9108 dear 00c07348
+iar 003a9294 dear 00c06c48
+iar 003a92a0 dear 00b36898
+iar 003a9260 dear 00efe838
+iar 003a9260 dear 00efcbc8
+iar 003a929c dear 00efc768
+iar 003a929c dear 00efd448
+iar 003a92a0 dear 00efd358
+iar 003a92a0 dear 00fcc6b8
+iar 003a92a0 dear 00efd518
+iar 003a9254 dear 00f05688
+iar 003a9254 dear 00f07a88
+iar 003a9260 dear 012924f8
+iar 003a9260 dear 0128f2f8
+iar 003a9260 dear 0128fc88
+iar 003a9260 dear <NUM>
+iar 003a929c dear <NUM>
+iar 003a929c dear <NUM>
+iar 003a92a0 dear 013611f8
+iar 003a92a0 dear 012902f8
+iar 003a9260 dear 00ef83b8
+iar 003a9254 dear 01299f08
+iar 003a9260 dear 00ef6c38
+iar 003a9258 dear 0136bd38
+iar 003a9260 dear 012979b8
+iar 003a9260 dear 0129a9a8
+iar 003a9260 dear 01299e48
+iar 003a929c dear 0136b2d8
+iar 003a9260 dear 00e24bd8
+iar 003a9260 dear 00f2a468
+iar 003a92a0 dear 0129a488
+iar 003a9260 dear 00f29b68
+iar 003a926c dear 00f2b078
+iar 00149fc0 dear 00739d98
+iar 0014a150 dear 0072b9f8
+iar 0014a150 dear 00719fc8
+iar 0014a150 dear 0098d458
+iar 0014a150 dear 0098e178
+iar 0014a150 dear <NUM>
+iar 0014a150 dear 00991c88
+iar 00149ee0 dear 009a2788
+iar 00149f88 dear 0099be48
+iar 0014a150 dear 00a53af8
+iar 0014a150 dear 009b9288
+iar 0014a150 dear 009a50f8
+iar 0014a150 dear 0098cdc8
+iar 00149ee0 dear 0099e5e8
+
+
+========================================
+SOURCE: cluster_3_freq_97.txt
+========================================
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv4 addr: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:4de9:a101:c96c:f28b
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:<NUM>:4de9:a101:c96c:f28b
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: interval <NUM>, retry_interval <NUM>, retry_count <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local port: <NUM>, remote port: <NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: original seq: <NUM>, ack: <NUM>, win size: <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: <NUM> srv recs, <NUM> txt recs
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: <NUM>:f140:<NUM>:a01b:1c57:7ef3:8f8e:5a10
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: remote ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: mdns: ipv6 addr: fe80:<NUM>:<NUM>:<NUM>:c6b3:1ff:fecd:467f
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+arpt: <NUM>.<NUM>: wl0: setup_keepalive: local ip: <NUM>.<NUM>.<NUM>.<NUM>
+arpt: <NUM>.<NUM>: wl0: wl_update_tcpkeep_seq: updated seq/ack/win from userclient seq <NUM>, ack <NUM>, win size <NUM>
+
+
+========================================
+SOURCE: cluster_0_freq_36.txt
+========================================
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+iothunderboltswitch<<NUM>>(0x0)::listenercallback - thunderbolt hpd packet for route = 0x0 port = <NUM> unplug = <NUM>
+
+
+========================================
+SOURCE: cluster_24_freq_92.txt
+========================================
+ce sym <NUM>, at 0x0b85eee0, mask 0x05
+ce sym <NUM>, at 0x1438f9e0, mask 0x40
+ce sym <NUM>, at 0x01228120, mask 0x10
+ce sym <NUM>, at 0x11042a80, mask 0x04
+ce sym <NUM>, at 0x110067e0, mask 0x02
+ce sym <NUM>, at 0x06047860, mask 0x20
+ce sym <NUM>, at 0x1b85f080, mask 0x02
+ce sym <NUM>, at 0x1b85fe80, mask 0x02
+ce sym <NUM>, at 0x08d10580, mask 0x08
+ce sym <NUM>, at 0x0b85f680, mask 0x0e
+ce sym <NUM>, at 0x1b858280, mask 0x40
+ce sym <NUM>, at 0x1b786f60, mask 0x04
+ce sym <NUM>, at 0x1b8584e0, mask 0x80
+ce sym <NUM>, at 0x03f89c00, mask 0x10
+ce sym <NUM>, at 0x11042a80, mask 0x04
+ce sym <NUM>, at 0x1b8594e0, mask 0x40
+ce sym <NUM>, at 0x08e70580, mask 0x08
+ce sym <NUM>, at 0x1b858ca0, mask 0x40
+ce sym <NUM>, at 0x1b858280, mask 0x40
+ce sym <NUM>, at 0x049af800, mask 0x02
+ce sym <NUM>, at 0x0d09f1c0, mask 0x80
+ce sym <NUM>, at 0x0456cd40, mask 0x04
+ce sym <NUM>, at 0x155e28e0, mask 0x08
+ce sym <NUM>, at 0x11b3f3c0, mask 0x10
+ce sym <NUM>, at 0x0e0272e0, mask 0x10
+ce sym <NUM>, at 0x0a2ae600, mask 0x10
+ce sym <NUM>, at 0x0fe65820, mask 0x04
+ce sym <NUM>, at 0x10e1b8a0, mask 0x10
+ce sym <NUM>, at 0x009c14e0, mask 0x20
+ce sym <NUM>, at 0x0b19b8a0, mask 0x08
+ce sym <NUM>, at 0x180462c0, mask 0x02
+ce sym <NUM>, at 0x12af93a0, mask 0x08
+ce sym <NUM>, at 0x03f89c00, mask 0x10
+ce sym <NUM>, at 0x01d7a160, mask 0x10
+ce sym <NUM>, at 0x07a95e80, mask 0x10
+ce sym <NUM>, at 0x1317cee0, mask 0x10
+ce sym <NUM>, at 0x00dbd200, mask 0x80
+ce sym <NUM>, at 0x146ad540, mask 0x10
+ce sym <NUM>, at 0x04d64dc0, mask 0x80
+ce sym <NUM>, at 0x1880a8e0, mask 0x40
+ce sym <NUM>, at 0x1a544020, mask 0x40
+ce sym <NUM>, at 0x123b6ca0, mask 0x20
+ce sym <NUM>, at 0x0a2ae600, mask 0x10
+ce sym <NUM>, at 0x14123c20, mask 0x08
+ce sym <NUM>, at 0x022c3fc0, mask 0x40
+ce sym <NUM>, at 0x166a9f20, mask 0x02
+ce sym <NUM>, at 0x13d38aa0, mask 0x40
+ce sym <NUM>, at 0x0bde77e0, mask 0x04
+ce sym <NUM>, at 0x0149a040, mask 0x80
+ce sym <NUM>, at 0x0fa3d060, mask 0x08
+
+
+========================================
+SOURCE: cluster_16_freq_51.txt
+========================================
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jun <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo logrotate: alert exited abnormally with [<NUM>]
+jul <NUM> <NUM>:<NUM>:<NUM> combo syslogd <NUM>.<NUM>.<NUM>: restart.
+
+
+========================================
+SOURCE: cluster_29_freq_88.txt
+========================================
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: unimplemented operation..<NUM>
+debug interrupt enable............<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: imprecise exception......<NUM>
+critical input interrupt enable...<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: illegal instruction......<NUM>
+program interrupt: unimplemented operation..<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: imprecise exception......<NUM>
+program interrupt: illegal instruction......<NUM>
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+<NUM> total interrupts. <NUM> critical input interrupts. <NUM> microseconds total spent on critical input interrupts, <NUM> microseconds max time in a critical input interrupt.
+
+
+========================================
+SOURCE: cluster_2_freq_102.txt
+========================================
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: iopmpowersource information: onwake, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on tcp timeout
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: standby, 'externalconnected': no, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+wake reason: arpt (network)
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[disable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on tcp timeout
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system sleep
+arpt: <NUM>.<NUM>: airport_brcm43xx::platformwowenable: wwen[enable]
+arpt: <NUM>.<NUM>: airport_brcm43xx::powerchange: system wake - full wake/ dark wake / maintenance wake
+arpt: <NUM>.<NUM>: arpt: wake reason: wake on scan offload
+arpt: <NUM>.<NUM>: iopmpowersource information: onsleep, sleeptype: normal sleep, 'externalconnected': yes, 'timeremaining': <NUM>,
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+arpt: <NUM>.<NUM>: airport_brcm43xx::syncpowerstate: wwen[enabled]
+
+
+========================================
+SOURCE: cluster_22_freq_42.txt
+========================================
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+instruction cache parity error corrected
+
+
+========================================
+SOURCE: cluster_32_freq_51.txt
+========================================
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+<NUM> microseconds spent in the rbs signal handler during <NUM> calls. <NUM> microseconds was the maximum time for a single instance of a correctable ddr.
+
+
+========================================
+SOURCE: cluster_34_freq_539.txt
+========================================
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+child workerenv in error state <NUM>
+
+
+========================================
+SOURCE: cluster_27_freq_42.txt
+========================================
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+total of <NUM> ddr error(s) detected and corrected
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr errors(s) detected and corrected on rank <NUM>, symbol <NUM>, bit <NUM>
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+<NUM> ddr error(s) detected and corrected on rank <NUM>, symbol <NUM> over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+total of <NUM> ddr error(s) detected and corrected over <NUM> seconds
+
+
+========================================
+SOURCE: cluster_6_freq_131.txt
+========================================
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.ical.sync.x-coredata://db05755c-483d-44b7-b93b-ed06e57ff420/caldavprincipal/p11: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.softwareupdate.activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.softwareupdate.activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.softwareupdate.activity: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.suggestions.harvest: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.escrowsecurityalert.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.cachedelete.daily: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <NUM> seconds. ignoring.
+
+
+========================================
+SOURCE: cluster_21_freq_263.txt
+========================================
+deleting block blk_1781953582842324563 file /mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563
+deleting block blk_8483848473254499625 file /mnt/hadoop/dfs/data/current/subdir51/blk_8483848473254499625
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir18/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir27/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir29/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir9/blk_-<NUM>
+deleting block blk_8303413189200230139 file /mnt/hadoop/dfs/data/current/subdir32/blk_8303413189200230139
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir41/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir11/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir1/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir25/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir42/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir26/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir18/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir41/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir33/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir60/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir29/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir32/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir20/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir34/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir6/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir39/blk_-<NUM>
+deleting block blk_826351419727053015 file /mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir57/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir25/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir38/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir0/blk_-<NUM>
+deleting block blk_830855781964014378 file /mnt/hadoop/dfs/data/current/subdir48/blk_830855781964014378
+deleting block blk_8291708741145026623 file /mnt/hadoop/dfs/data/current/subdir57/blk_8291708741145026623
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir23/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir13/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir30/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir47/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir21/blk_-<NUM>
+deleting block blk_561417755647618727 file /mnt/hadoop/dfs/data/current/subdir4/blk_561417755647618727
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir53/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir37/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir29/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir40/blk_-<NUM>
+deleting block blk_2278708746675870163 file /mnt/hadoop/dfs/data/current/subdir27/blk_2278708746675870163
+deleting block blk_153508158653341141 file /mnt/hadoop/dfs/data/current/subdir50/blk_153508158653341141
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir26/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir16/blk_-<NUM>
+deleting block blk_-<NUM> file /mnt/hadoop/dfs/data/current/subdir40/blk_-<NUM>
+deleting block blk_3585588704565901062 file /mnt/hadoop/dfs/data/current/subdir15/blk_3585588704565901062
+deleting block blk_2756799797410851893 file /mnt/hadoop/dfs/data/current/subdir24/blk_2756799797410851893
+deleting block blk_7323287581932922676 file /mnt/hadoop/dfs/data/current/subdir12/blk_7323287581932922676
+deleting block blk_2731617036199392057 file /mnt/hadoop/dfs/data/current/subdir39/blk_2731617036199392057
+
+
+========================================
+SOURCE: cluster_15_freq_246.txt
+========================================
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user test by (uid=<NUM>)
+session closed for user test
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+session opened for user cyrus by (uid=<NUM>)
+session closed for user cyrus
+session opened for user news by (uid=<NUM>)
+session closed for user news
+
+
+========================================
+SOURCE: cluster_9_freq_69.txt
+========================================
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: qq(<NUM>) deny(<NUM>) mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: qq(<NUM>) deny(<NUM>) mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: qq(<NUM>) deny(<NUM>) mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+sandbox: com.apple.addres(<NUM>) deny(<NUM>) network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> sandboxd[<NUM>] ([<NUM>]): com.apple.addres(<NUM>) deny network-outbound /private/var/run/mdnsresponder
+jul <NUM> <NUM>:<NUM>:<NUM> authormacbook-pro sandboxd[<NUM>] ([<NUM>]): qq(<NUM>) deny mach-lookup com.apple.networking.captivenetworksupport
+
+
+========================================
+SOURCE: cluster_1_freq_39.txt
+========================================
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+thermal pressure state: <NUM> memory pressure state: <NUM>
+
+
+========================================
+SOURCE: cluster_17_freq_909.txt
+========================================
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (<NUM>-<NUM>-<NUM>-<NUM>.bflony.adelphia.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at fri jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> (lns-vlq-<NUM>-tou-<NUM>-<NUM>-<NUM>-<NUM>.adsl.proxad.net) at sat jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at mon jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+connection from <NUM>.<NUM>.<NUM>.<NUM> () at wed jun <NUM> <NUM>:<NUM>:<NUM> <NUM>
+
+
+========================================
+SOURCE: cluster_5_freq_91.txt
+========================================
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000300
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000300
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::handlewakeevent_gated
+applecamin::wakeeventhandlerthread
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::handlewakeevent_gated
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+applecamin::handlewakeevent_gated
+applecamin::wakeeventhandlerthread
+applecamin::systemwakecall - messagetype = 0xe0000340
+applecamin::wakeeventhandlerthread
+
+
+========================================
+SOURCE: cluster_12_freq_71.txt
+========================================
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00660011': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x0067000f': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00670033': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x03600009': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x0360001f': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x03f20026': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x009a0005': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00990013': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00690003': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x006a0061': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x006a00a6': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x006a00a7': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x006a00b2': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x006d0002': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00b20001': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x03ef000d': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00b8fffe': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00bb0001': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00bc0007': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00c1000a': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00c40027': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00c5000c': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00e80002': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x03eb0001': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x006f0001': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x00730020': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x007c000c': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x007c0018': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x007d000e': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x008b036a': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x008b6fb5': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x008b0360': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x008bdeaa': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x008bdeb0': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x01f60001': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x01f90004': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02080000': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02100004': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02120000': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02120002': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x023b0003': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x023d0001': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02410003': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02420002': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02420006': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02470032': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x02470045': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x0247ffe9': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x0249002a': four character codes must be four characters long.
+jul <NUM> <NUM>:<NUM>:<NUM> calvisitor-<NUM>-<NUM>-<NUM>-<NUM> microsoft word[<NUM>]: cocoa scripting error for '0x024a00b2': four character codes must be four characters long.
+
