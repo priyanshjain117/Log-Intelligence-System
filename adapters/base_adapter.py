@@ -53,5 +53,4 @@ class BaseAdapter(ABC):
             "service": service,
             "timestamp": timestamp,
             "structured_fields": structured_fields or {},
-            "label": None
         }
