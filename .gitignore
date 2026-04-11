@@ -142,3 +142,5 @@ docker-compose.override.yml
 *.cache
 .cache/
 data/.DS_Store
+
+*.pkl
