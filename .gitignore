@@ -141,3 +141,4 @@ docker-compose.override.yml
 *.tmp
 *.cache
 .cache/
+data/.DS_Store
