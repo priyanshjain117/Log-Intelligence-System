@@ -2,6 +2,7 @@ from typing import TypedDict, Optional
 
 class LogState(TypedDict):
     log: str
+    log_vector: Optional[list[float]]  # for vector DB search
 
     # Regex
     regex_label: Optional[str]
