@@ -144,3 +144,5 @@ docker-compose.override.yml
 data/.DS_Store
 
 *.pkl
+
+*.DS_Store
