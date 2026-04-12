@@ -12,3 +12,11 @@ def route_from_ml(state: LogState):
         return "final_node"
     else:
         return "vector_search_node"  
+    
+def route_from_vector(state: LogState):
+    score = state.get("vector_score", 0.0)
+
+    if score >= 0.9:
+        return "final_node"
+
+    return "llm_node"
