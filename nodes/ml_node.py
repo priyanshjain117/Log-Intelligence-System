@@ -1,7 +1,6 @@
-from utils import load_ml_model, load_label_encoder
+from utils.loader import load_ml_model, load_label_encoder, load_embedding_model
 from graph.state import LogState
 from utils.clean import prepare_for_ml
-from utils.loader import load_embedding_model
 
 ml_model=load_ml_model()
 label_encoder=load_label_encoder()
