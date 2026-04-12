@@ -1,5 +1,5 @@
 import re
-from regex_rules import REGEX_RULES
+from .regex_rules import REGEX_RULES
 
 
 class RegexEngine:
@@ -28,7 +28,7 @@ class RegexEngine:
         source = log.get("source")
 
         for rule in self.rules:
-            if source not in rule["sources"]:
+            if source and source not in rule["sources"]:
                 continue
 
             if rule["compiled"].search(text):

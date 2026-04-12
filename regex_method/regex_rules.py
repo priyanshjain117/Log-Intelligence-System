@@ -123,7 +123,7 @@ REGEX_RULES = [
     {
         "level": "INFO",
         "pattern": r"ib_sm.*new sweep|ib_sm.*no topology change|ib_sm.*no configuration change",
-        "confidence": 0.85,
+        "confidence": 0.86,
         "sources": ["thunderbird"]
     },
 
@@ -200,7 +200,7 @@ REGEX_RULES = [
     {
         "level": "INFO",
         "pattern": r"retrying connect to server:.*already tried \d+ time",
-        "confidence": 0.84,
+        "confidence": 0.87,
         "sources": ["hadoop"]
     },
 ]
