@@ -13,3 +13,11 @@ numpy==1.26.4                       # Array ops, embedding matrices
 # ─── Utilities ──────────────────────────────────────────────────────────
 tqdm==4.66.4                        # Progress bars for embedding generation
 joblib==1.4.2                       # Model serialisation (save/load trained classifier)
+
+python-dotenv
+faiss-cpu
+
+langchain
+langchain-core
+langchain-community
+langchain-groq
