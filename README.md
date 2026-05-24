@@ -8,38 +8,34 @@ The codebase currently behaves like a local CLI/research project rather than a w
 
 The main runtime entry point is `main.py`. It creates a blank `LogState`, invokes the compiled LangGraph workflow from `graph/graph.py`, and prints the final severity classification.
 
-```text
-Raw log line
-    |
-    v
-main.py
-    |
-    v
-blank_state(log) -> LogState
-    |
-    v
-LangGraph workflow: graph/graph.py
-    |
-    v
-regex_node
-    |-- regex match found -------------------------> final_node -> result
-    |
-    v
-ml_node
-    |-- ml_confidence >= 0.85 ---------------------> final_node -> result
-    |
-    v
-vector_search_node
-    |-- vector_score >= 0.90 ----------------------> final_node -> result
-    |
-    v
-llm_node
-    |
-    v
-validate_node
-    |-- valid response ----------------------------> save_to_vector_node -> final_node -> result
-    |-- invalid and attempts < 3 ------------------> llm_node
-    |-- invalid and attempts exhausted ------------> save_to_vector_node -> final_node -> result
+```mermaid
+flowchart TD
+    A["Raw log line"] --> B["main.py"]
+    B --> C["blank_state(log)"]
+    C --> D["LogState"]
+    D --> E["LangGraph workflow<br/>graph/graph.py"]
+
+    E --> F["regex_node"]
+    F --> G{"Regex label found?"}
+    G -- "Yes" --> Z["final_node"]
+    G -- "No" --> H["ml_node"]
+
+    H --> I{"ML confidence >= 0.85?"}
+    I -- "Yes" --> Z
+    I -- "No" --> J["vector_search_node"]
+
+    J --> K{"Vector score >= 0.90?"}
+    K -- "Yes" --> Z
+    K -- "No" --> L["llm_node"]
+
+    L --> M["validate_node"]
+    M --> N{"Validation passed?"}
+    N -- "Yes" --> O["save_to_vector_node"]
+    N -- "No, attempts under 3" --> L
+    N -- "No, attempts exhausted" --> O
+
+    O --> Z
+    Z --> P["Classification result<br/>label, source, reason"]
 ```
 
 ### Runtime Classification Flow
@@ -105,20 +101,16 @@ validate_node
 
 ### Data Preparation Workflow
 
-```text
-data/raw/<source>/*.log
-    |
-    v
-preprocess.py
-    |
-    v
-source adapter from adapters/
-    |
-    v
-unified log records
-    |
-    v
-data/processed/unified_logs.ndjson
+```mermaid
+flowchart TD
+    A["data/raw/source/*.log"] --> B["preprocess.py"]
+    B --> C{"Source registered?"}
+    C -- "Yes" --> D["Source adapter<br/>adapters/*.py"]
+    C -- "No" --> E["GenericAdapter"]
+    D -- "Parser error" --> E
+    D --> F["Unified log record"]
+    E --> F
+    F --> G["data/processed/unified_logs.ndjson"]
 ```
 
 - `preprocess.py` scans `data/raw`.
@@ -129,15 +121,17 @@ data/processed/unified_logs.ndjson
 
 ### Regex and ML Dataset Workflow
 
-```text
-unified logs / raw source logs
-    |
-    v
-regex_method/dataset_cleaner.py
-    |
-    |-- regex matched -------> regex_classified.csv
-    |
-    |-- regex unmatched -----> ml_training.csv
+```mermaid
+flowchart TD
+    A["Unified logs or raw source logs"] --> B["regex_method/dataset_cleaner.py"]
+    B --> C["Parse source-specific records"]
+    C --> D["RegexEngine"]
+    D --> E{"Regex matched?"}
+    E -- "Yes" --> F["regex_classified.csv"]
+    E -- "No" --> G["ml_training.csv"]
+    G --> H["model/model_training.py"]
+    H --> I["Classifier artifact"]
+    H --> J["Label encoder artifact"]
 ```
 
 - `regex_method/dataset_cleaner.py` parses known datasets and runs the regex engine.
@@ -148,20 +142,15 @@ regex_method/dataset_cleaner.py
 
 ### Pattern Mining Workflow
 
-```text
-unlabeled logs
-    |
-    v
-SentenceTransformer embeddings
-    |
-    v
-DBSCAN clustering
-    |
-    v
-candidate repeated patterns
-    |
-    v
-new regex rules can be added manually
+```mermaid
+flowchart TD
+    A["Unlabeled logs"] --> B["SentenceTransformer embeddings"]
+    B --> C["DBSCAN clustering"]
+    C --> D{"Frequent semantic cluster?"}
+    D -- "Yes" --> E["Candidate repeated pattern"]
+    D -- "No" --> F["Noise or low-frequency group"]
+    E --> G["Manual review"]
+    G --> H["New regex rules<br/>regex_method/regex_rules.py"]
 ```
 
 - `analysis/dbscan_pattern_mining.py` clusters repeated unlabeled log messages.
