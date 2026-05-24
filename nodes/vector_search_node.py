@@ -31,5 +31,6 @@ def vector_search_node(state):
         "vector_label":   best["label"],
         "vector_score":   best["score"],
         "vector_context": results,        # ← passed to llm_node as RAG context
+        "final_label":    best["label"],
         "final_source":   "vector_cache",
     }
